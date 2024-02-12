@@ -102,8 +102,12 @@ iframe.testing {
   text-align: center;
   margin: auto;
   width:100%;
-  height:100%
+  height:100%;
 }
+.alignbuttona {
+  margin-bottom: 2%;
+}
+
 .form {
   display: inline-block;
 }
